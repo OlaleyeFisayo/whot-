@@ -1,0 +1,282 @@
+[
+  {
+    "shape": "Circle",
+    "number": 1,
+    "ability": "Hold on"
+  },
+  {
+    "shape": "Circle",
+    "number": 2,
+    "ability": "Pick 2"
+  },
+  {
+    "shape": "Circle",
+    "number": 3,
+    "ability": "Pick 3"
+  },
+  {
+    "shape": "Circle",
+    "number": 4,
+    "ability": null
+  },
+  {
+    "shape": "Circle",
+    "number": 5,
+    "ability": "Pick 3"
+  },
+  {
+    "shape": "Circle",
+    "number": 7,
+    "ability": null
+  },
+  {
+    "shape": "Circle",
+    "number": 8,
+    "ability": "Suspension"
+  },
+  {
+    "shape": "Circle",
+    "number": 9,
+    "ability": null
+  },
+  {
+    "shape": "Circle",
+    "number": 10,
+    "ability": null
+  },
+  {
+    "shape": "Circle",
+    "number": 11,
+    "ability": null
+  },
+  {
+    "shape": "Circle",
+    "number": 12,
+    "ability": null
+  },
+  {
+    "shape": "Circle",
+    "number": 13,
+    "ability": null
+  },
+  {
+    "shape": "Circle",
+    "number": 14,
+    "ability": "General Market"
+  },
+  {
+    "shape": "Triangle",
+    "number": 1,
+    "ability": "Hold on"
+  },
+  {
+    "shape": "Triangle",
+    "number": 2,
+    "ability": "Pick 2"
+  },
+  {
+    "shape": "Triangle",
+    "number": 3,
+    "ability": "Pick 3"
+  },
+  {
+    "shape": "Triangle",
+    "number": 4,
+    "ability": null
+  },
+  {
+    "shape": "Triangle",
+    "number": 5,
+    "ability": "Pick 3"
+  },
+  {
+    "shape": "Triangle",
+    "number": 7,
+    "ability": null
+  },
+  {
+    "shape": "Triangle",
+    "number": 8,
+    "ability": "Suspension"
+  },
+  {
+    "shape": "Triangle",
+    "number": 9,
+    "ability": null
+  },
+  {
+    "shape": "Triangle",
+    "number": 10,
+    "ability": null
+  },
+  {
+    "shape": "Triangle",
+    "number": 11,
+    "ability": null
+  },
+  {
+    "shape": "Triangle",
+    "number": 12,
+    "ability": null
+  },
+  {
+    "shape": "Triangle",
+    "number": 13,
+    "ability": null
+  },
+  {
+    "shape": "Triangle",
+    "number": 14,
+    "ability": "General Market"
+  },
+  {
+    "shape": "Cross",
+    "number": 1,
+    "ability": "Hold on"
+  },
+  {
+    "shape": "Cross",
+    "number": 2,
+    "ability": "Pick 2"
+  },
+  {
+    "shape": "Cross",
+    "number": 3,
+    "ability": "Pick 3"
+  },
+  {
+    "shape": "Cross",
+    "number": 5,
+    "ability": "Pick 3"
+  },
+  {
+    "shape": "Cross",
+    "number": 7,
+    "ability": null
+  },
+  {
+    "shape": "Cross",
+    "number": 10,
+    "ability": null
+  },
+  {
+    "shape": "Cross",
+    "number": 11,
+    "ability": null
+  },
+  {
+    "shape": "Cross",
+    "number": 13,
+    "ability": null
+  },
+  {
+    "shape": "Cross",
+    "number": 14,
+    "ability": "General Market"
+  },
+  {
+    "shape": "Square",
+    "number": 1,
+    "ability": "Hold on"
+  },
+  {
+    "shape": "Square",
+    "number": 2,
+    "ability": "Pick 2"
+  },
+  {
+    "shape": "Square",
+    "number": 3,
+    "ability": "Pick 3"
+  },
+  {
+    "shape": "Square",
+    "number": 5,
+    "ability": "Pick 3"
+  },
+  {
+    "shape": "Square",
+    "number": 7,
+    "ability": null
+  },
+  {
+    "shape": "Square",
+    "number": 10,
+    "ability": null
+  },
+  {
+    "shape": "Square",
+    "number": 11,
+    "ability": null
+  },
+  {
+    "shape": "Square",
+    "number": 13,
+    "ability": null
+  },
+  {
+    "shape": "Square",
+    "number": 14,
+    "ability": "General Market"
+  },
+  {
+    "shape": "Star",
+    "number": 1,
+    "ability": "Hold on"
+  },
+  {
+    "shape": "Star",
+    "number": 2,
+    "ability": "Pick 2"
+  },
+  {
+    "shape": "Star",
+    "number": 3,
+    "ability": "Pick 3"
+  },
+  {
+    "shape": "Star",
+    "number": 4,
+    "ability": null
+  },
+  {
+    "shape": "Star",
+    "number": 5,
+    "ability": "Pick 3"
+  },
+  {
+    "shape": "Star",
+    "number": 7,
+    "ability": null
+  },
+  {
+    "shape": "Star",
+    "number": 8,
+    "ability": "Suspension"
+  },
+  {
+    "shape": "Whot",
+    "number": 20,
+    "ability": "Whot"
+  },
+  {
+    "shape": "Whot",
+    "number": 20,
+    "ability": "Whot"
+  },
+  {
+    "shape": "Whot",
+    "number": 20,
+    "ability": "Whot"
+  },
+  {
+    "shape": "Whot",
+    "number": 20,
+    "ability": "Whot"
+  },
+  {
+    "shape": "Whot",
+    "number": 20,
+    "ability": "Whot"
+  }
+]

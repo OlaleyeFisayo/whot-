@@ -1,7 +1,7 @@
 export default function Card () {
     return (
-        <div>
-            <h1>this is a card</h1>
+        <div className="w-[300px] h-[400px] rounded-lg bg-white">
+            
         </div>
     )
 }
