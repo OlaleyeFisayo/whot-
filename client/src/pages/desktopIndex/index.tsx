@@ -13,7 +13,6 @@ export default function DesktopIndex() {
       </div>
       <div>
         <Button>Create a Room</Button>
-        <Button>Join a Room</Button>
       </div>
     </section>
   );
