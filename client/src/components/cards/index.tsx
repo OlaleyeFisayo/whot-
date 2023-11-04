@@ -15,7 +15,7 @@ export default function Card({ shape, value, className }: CardPrototype) {
 
   if (shape === "Cross") {
     return (
-      <div className={`w-[200px] h-[350px] ${className}`}>
+      <div className={`w-[235px] ${className} overflow-hidden`}>
         <Cross
           str0={str0}
           str1={str1}
@@ -28,7 +28,7 @@ export default function Card({ shape, value, className }: CardPrototype) {
     );
   } else if (shape === "Triangle") {
     return (
-      <div className={`w-[200px] h-[350px] ${className}`}>
+      <div className={`w-[235px] ${className} overflow-hidden`}>
         <Triangle
           str0={str0}
           str3={str3}
@@ -40,7 +40,7 @@ export default function Card({ shape, value, className }: CardPrototype) {
     );
   } else if (shape === "Circle") {
     return (
-      <div className={`w-[200px] h-[350px] ${className}`}>
+      <div className={`w-[235px] ${className} overflow-hidden`}>
         <Circle
           str0={str0}
           str1={str1}
@@ -54,7 +54,7 @@ export default function Card({ shape, value, className }: CardPrototype) {
     );
   } else if (shape === "Square") {
     return (
-      <div className={`w-[200px] h-[350px] ${className}`}>
+      <div className={`w-[235px] ${className} overflow-hidden`}>
         <Square
           str0={str0}
           str1={str1}
@@ -67,7 +67,7 @@ export default function Card({ shape, value, className }: CardPrototype) {
     );
   } else if (shape === "Star") {
     return (
-      <div className={`w-[200px] h-[350px] ${className}`}>
+      <div className={`w-[235px] ${className} overflow-hidden`}>
         <Star
           str0={str0}
           str1={str1}

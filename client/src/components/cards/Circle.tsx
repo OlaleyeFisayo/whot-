@@ -14,8 +14,8 @@ export default function Circle({
       version="1.1"
       x="0px"
       y="0px"
-      viewBox="0 0 186.3 255.5"
-      className="w-full h-full"
+      viewBox="4 4 179 247"
+      className="w-full h-full border-[1px] border-solid border-[#791026] rounded-2xl"
     >
       <g id="ace">
         <g>

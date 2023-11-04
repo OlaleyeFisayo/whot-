@@ -3,22 +3,45 @@ import Card from "../../components/cards";
 
 export default function DesktopIndex() {
   return (
-    <section className="w-full min-h-[100dvh] p-8">
+    <section className="max-w-[1440px] m-auto w-full min-h-[100dvh] h-full p-8 relative">
       <h1 className="text-3xl mb-8 w-full text-center">
         A Whot game inspired by Kahoot!
       </h1>
-      <section className="flex items-center justify-between gap-3 w-full">
-        <div className="flex relative max-w-[650px] w-full h-[350px] border-solid border">
-          <Card shape="Triangle" value={1} className="absolute left-10 " />
-          <Card shape="Circle" value={2} className="absolute" />
-          <Card shape="Cross" value={5} className="absolute" />
-          <Card shape="Star" value={8} className="absolute" />
-          <Card shape="Square" value={14} className="absolute" />
+      <section className="flex items-center justify-between gap-10 w-full p-5 h-full">
+        <div className="flex relative w-full max-w-[550px] h-[430px] items-center p-10">
+          <Card
+            shape="Triangle"
+            value={1}
+            className="absolute rotate-[-10deg]"
+          />
+          <Card
+            shape="Circle"
+            value={2}
+            className="absolute left-[80px] top-[60px] rotate-[-5deg]"
+          />
+          <Card
+            shape="Cross"
+            value={5}
+            className="absolute left-[120px] top-[70px] rotate-[0deg]"
+          />
+          <Card
+            shape="Star"
+            value={8}
+            className="absolute left-[160px] top-[90px] rotate-[5deg]"
+          />
+          <Card
+            shape="Square"
+            value={14}
+            className="absolute left-[190px] top-[110px] rotate-[10deg]"
+          />
         </div>
-        <Button className="bg-green-700 p-4 rounded-md hover:bg-green-800 transition-all ease-in-out">
+        <Button className="bg-green-700 py-4 px-6 rounded-md hover:bg-green-800 transition-all ease-in-out">
           Create a Room
         </Button>
       </section>
+      <footer className="absolute bottom-8">
+        <h1>Created by <a href="#" target="_blank" className="font-bold">Festus-Olaleye Fisayo</a></h1>
+      </footer>
     </section>
   );
 }
