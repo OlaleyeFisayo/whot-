@@ -1,14 +1,16 @@
 export interface CardsProps {
-    str0: string;
-    str1?: string;
-    str2?: string;
-    str3: string;
-    str4: string;
-    str5: string;
-    value: number;
+  str0: string;
+  str1?: string;
+  str2?: string;
+  str3: string;
+  str4: string;
+  str5: string;
+  value: number;
+  className?: string;
 }
 
 export interface CardPrototype {
-    shape: string;
-    value: number;
+  shape: string;
+  value: number;
+  className?: string;
 }

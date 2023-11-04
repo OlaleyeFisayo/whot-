@@ -5,7 +5,7 @@ import Star from "./Star";
 import Triangle from "./Triangle";
 import { CardPrototype } from "./types";
 
-export default function Card({ shape, value }: CardPrototype) {
+export default function Card({ shape, value, className }: CardPrototype) {
   const str0 = "fill-[#F4F4F2] strole=[#000000]";
   const str1 = "fill-[#7D1228]";
   const str2 = "fill-none";
@@ -15,7 +15,7 @@ export default function Card({ shape, value }: CardPrototype) {
 
   if (shape === "Cross") {
     return (
-      <div className="w-[300px] h-[400px]">
+      <div className="w-[200px] h-[350px]">
         <Cross
           str0={str0}
           str1={str1}
@@ -23,24 +23,26 @@ export default function Card({ shape, value }: CardPrototype) {
           str4={str4}
           str5={str5}
           value={value}
+          className={className}
         />
       </div>
     );
   } else if (shape === "Triangle") {
     return (
-      <div className="w-[300px] h-[400px]">
+      <div className="w-[200px] h-[350px]">
         <Triangle
           str0={str0}
           str3={str3}
           str4={str4}
           str5={str5}
           value={value}
+          className={className}
         />
       </div>
     );
   } else if (shape === "Circle") {
     return (
-      <div className="w-[300px] h-[400px]">
+      <div className="w-[200px] h-[350px]">
         <Circle
           str0={str0}
           str1={str1}
@@ -49,12 +51,13 @@ export default function Card({ shape, value }: CardPrototype) {
           str4={str4}
           str5={str5}
           value={value}
+          className={className}
         />
       </div>
     );
   } else if (shape === "Square") {
     return (
-      <div className="w-[300px] h-[400px]">
+      <div className="w-[200px] h-[350px]">
         <Square
           str0={str0}
           str1={str1}
@@ -62,12 +65,13 @@ export default function Card({ shape, value }: CardPrototype) {
           str4={str4}
           str5={str5}
           value={value}
+          className={className}
         />
       </div>
     );
   } else if (shape === "Star") {
     return (
-      <div className="w-[300px] h-[400px]">
+      <div className="w-[200px] h-[350px]">
         <Star
           str0={str0}
           str1={str1}
@@ -75,6 +79,7 @@ export default function Card({ shape, value }: CardPrototype) {
           str4={str4}
           str5={str5}
           value={value}
+          className={className}
         />
       </div>
     );

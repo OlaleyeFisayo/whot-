@@ -8,14 +8,15 @@ export default function Circle({
   str4,
   str5,
   value,
+  className,
 }: CardsProps) {
   return (
     <svg
       version="1.1"
       x="0px"
       y="0px"
-      viewBox="0 0 200 300"
-      className="w-full h-full"
+      viewBox="0 0 186.3 255.5"
+      className={`w-full h-full ${className}`}
     >
       <g id="ace">
         <g>
@@ -52,14 +53,14 @@ export default function Circle({
           transform="matrix(1 0 0 1 15.942 31.6153)"
           className={`${str3} ${str4} ${str5}`}
         >
-         {value}
+          {value}
         </text>
         <circle className={`${str1}`} cx="155.1" cy="198.2" r="9.3" />
         <text
           transform="matrix(1 0 0 1 147.3851 236.655)"
           className={`${str3} ${str4} ${str5}`}
         >
-         {value}
+          {value}
         </text>
       </g>
     </svg>
