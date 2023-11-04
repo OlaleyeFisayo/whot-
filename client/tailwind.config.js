@@ -4,7 +4,8 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        wood: "url('./assets/background.jfif')",
+        wood: "url('./assets/imgs/background.jfif')",
+        greenbg: "url('./assets/imgs/green.jpg')"
       },
     },
   },
