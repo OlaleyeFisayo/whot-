@@ -2,8 +2,6 @@ import { CardsProps } from "./types";
 
 export default function Triangle({
   str0,
-  str1,
-  str2,
   str3,
   str4,
   str5,
