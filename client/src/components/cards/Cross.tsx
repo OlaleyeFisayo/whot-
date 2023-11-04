@@ -9,7 +9,7 @@ export default function Cross({
   value,
 }: CardsProps) {
   return (
-    <svg version="1.1" x="0px" y="0px" viewBox="0 0 186.3 255.5">
+    <svg version="1.1" x="0px" y="0px" viewBox="0 0 200 300">
       <g id="ace">
         <g>
           <path

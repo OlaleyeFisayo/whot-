@@ -14,7 +14,7 @@ export default function Circle({
       version="1.1"
       x="0px"
       y="0px"
-      viewBox="0 0 186.3 255.5"
+      viewBox="0 0 200 300"
       className="w-full h-full"
     >
       <g id="ace">
