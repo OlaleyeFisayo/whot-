@@ -7,7 +7,6 @@ export default function Star({
   str4,
   str5,
   value,
-  className,
 }: CardsProps) {
   return (
     <svg
@@ -15,7 +14,7 @@ export default function Star({
       x="0px"
       y="0px"
       viewBox="0 0 186.3 255.5"
-      className={`w-full h-full ${className}`}
+      className="w-full h-full"
     >
       <g id="ace">
         <g>

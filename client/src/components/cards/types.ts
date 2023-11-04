@@ -6,7 +6,6 @@ export interface CardsProps {
   str4: string;
   str5: string;
   value: number;
-  className?: string;
 }
 
 export interface CardPrototype {

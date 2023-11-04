@@ -15,7 +15,7 @@ export default function Card({ shape, value, className }: CardPrototype) {
 
   if (shape === "Cross") {
     return (
-      <div className="w-[200px] h-[350px]">
+      <div className={`w-[200px] h-[350px] ${className}`}>
         <Cross
           str0={str0}
           str1={str1}
@@ -23,26 +23,24 @@ export default function Card({ shape, value, className }: CardPrototype) {
           str4={str4}
           str5={str5}
           value={value}
-          className={className}
         />
       </div>
     );
   } else if (shape === "Triangle") {
     return (
-      <div className="w-[200px] h-[350px]">
+      <div className={`w-[200px] h-[350px] ${className}`}>
         <Triangle
           str0={str0}
           str3={str3}
           str4={str4}
           str5={str5}
           value={value}
-          className={className}
         />
       </div>
     );
   } else if (shape === "Circle") {
     return (
-      <div className="w-[200px] h-[350px]">
+      <div className={`w-[200px] h-[350px] ${className}`}>
         <Circle
           str0={str0}
           str1={str1}
@@ -51,13 +49,12 @@ export default function Card({ shape, value, className }: CardPrototype) {
           str4={str4}
           str5={str5}
           value={value}
-          className={className}
         />
       </div>
     );
   } else if (shape === "Square") {
     return (
-      <div className="w-[200px] h-[350px]">
+      <div className={`w-[200px] h-[350px] ${className}`}>
         <Square
           str0={str0}
           str1={str1}
@@ -65,13 +62,12 @@ export default function Card({ shape, value, className }: CardPrototype) {
           str4={str4}
           str5={str5}
           value={value}
-          className={className}
         />
       </div>
     );
   } else if (shape === "Star") {
     return (
-      <div className="w-[200px] h-[350px]">
+      <div className={`w-[200px] h-[350px] ${className}`}>
         <Star
           str0={str0}
           str1={str1}
@@ -79,7 +75,6 @@ export default function Card({ shape, value, className }: CardPrototype) {
           str4={str4}
           str5={str5}
           value={value}
-          className={className}
         />
       </div>
     );
