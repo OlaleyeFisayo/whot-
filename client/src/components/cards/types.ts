@@ -13,4 +13,5 @@ export interface CardPrototype {
   shape: "Circle" | "Triangle" | "Whot" | "Square" | "Star" | "Cross";
   value: number;
   className?: string;
+  ability?: "Hold on" | "Suspension" | "Pick 2" | "Pick 3" | "Whot" | null;
 }

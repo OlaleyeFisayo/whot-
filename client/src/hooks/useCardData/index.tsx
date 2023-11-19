@@ -1,8 +1,8 @@
 import { useState, useEffect } from "react";
-import { cardsPrototype } from "../types";
+import { CardPrototype } from "../../components/cards/types";
 
 export function useCardData() {
-  const [cards, setCards] = useState([] as cardsPrototype[]);
+  const [cards, setCards] = useState([] as CardPrototype[]);
 
   useEffect(() => {
     const fetchData = async () => {
