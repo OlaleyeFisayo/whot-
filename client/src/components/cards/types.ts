@@ -9,7 +9,8 @@ export interface CardsProps {
 }
 
 export interface CardPrototype {
-  shape: string;
+  id: string;
+  shape: "Circle" | "Triangle" | "Whot" | "Square" | "Star" | "Cross";
   value: number;
   className?: string;
 }

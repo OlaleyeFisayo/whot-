@@ -1,280 +1,324 @@
 [
   {
+    "id": "circle1",
     "shape": "Circle",
     "number": 1,
     "ability": "Hold on"
   },
   {
+    "id": "circle2",
     "shape": "Circle",
     "number": 2,
     "ability": "Pick 2"
   },
   {
+    "id": "circle3",
     "shape": "Circle",
     "number": 3,
     "ability": "Pick 3"
   },
   {
+    "id": "circle4",
     "shape": "Circle",
     "number": 4,
     "ability": null
   },
   {
+    "id": "circle5",
     "shape": "Circle",
     "number": 5,
     "ability": "Pick 3"
   },
   {
+    "id": "circle7",
     "shape": "Circle",
     "number": 7,
     "ability": null
   },
   {
+    "id": "circle8",
     "shape": "Circle",
     "number": 8,
     "ability": "Suspension"
   },
   {
-    "shape": "Circle",
-    "number": 9,
-    "ability": null
-  },
-  {
+    "id": "circle10",
     "shape": "Circle",
     "number": 10,
     "ability": null
   },
   {
+    "id": "circle11",
     "shape": "Circle",
     "number": 11,
     "ability": null
   },
   {
+    "id": "circle12",
     "shape": "Circle",
     "number": 12,
     "ability": null
   },
   {
+    "id": "circle13",
     "shape": "Circle",
     "number": 13,
     "ability": null
   },
   {
+    "id": "circle14",
     "shape": "Circle",
     "number": 14,
     "ability": "General Market"
   },
   {
+    "id": "triangle1",
     "shape": "Triangle",
     "number": 1,
     "ability": "Hold on"
   },
   {
+    "id": "triangle2",
     "shape": "Triangle",
     "number": 2,
     "ability": "Pick 2"
   },
   {
+    "id": "triangle3",
     "shape": "Triangle",
     "number": 3,
     "ability": "Pick 3"
   },
   {
+    "id": "triangle4",
     "shape": "Triangle",
     "number": 4,
     "ability": null
   },
   {
+    "id": "triangle5",
     "shape": "Triangle",
     "number": 5,
     "ability": "Pick 3"
   },
   {
+    "id": "triangle7",
     "shape": "Triangle",
     "number": 7,
     "ability": null
   },
   {
+    "id": "triangle8",
     "shape": "Triangle",
     "number": 8,
     "ability": "Suspension"
   },
   {
-    "shape": "Triangle",
-    "number": 9,
-    "ability": null
-  },
-  {
+    "id": "triangle10",
     "shape": "Triangle",
     "number": 10,
     "ability": null
   },
   {
+    "id": "triangle11",
     "shape": "Triangle",
     "number": 11,
     "ability": null
   },
   {
+    "id": "triangle12",
     "shape": "Triangle",
     "number": 12,
     "ability": null
   },
   {
+    "id": "triangle13",
     "shape": "Triangle",
     "number": 13,
     "ability": null
   },
   {
+    "id": "triangle14",
     "shape": "Triangle",
     "number": 14,
     "ability": "General Market"
   },
   {
+    "id": "cross1",
     "shape": "Cross",
     "number": 1,
     "ability": "Hold on"
   },
   {
+    "id": "cross2",
     "shape": "Cross",
     "number": 2,
     "ability": "Pick 2"
   },
   {
+    "id": "cross3",
     "shape": "Cross",
     "number": 3,
     "ability": "Pick 3"
   },
   {
+    "id": "cross5",
     "shape": "Cross",
     "number": 5,
     "ability": "Pick 3"
   },
   {
+    "id": "cross7",
     "shape": "Cross",
     "number": 7,
     "ability": null
   },
   {
+    "id": "cross10",
     "shape": "Cross",
     "number": 10,
     "ability": null
   },
   {
+    "id": "cross11",
     "shape": "Cross",
     "number": 11,
     "ability": null
   },
   {
+    "id": "cross13",
     "shape": "Cross",
     "number": 13,
     "ability": null
   },
   {
+    "id": "cross14",
     "shape": "Cross",
     "number": 14,
     "ability": "General Market"
   },
   {
+    "id": "square1",
     "shape": "Square",
     "number": 1,
     "ability": "Hold on"
   },
   {
+    "id": "square2",
     "shape": "Square",
     "number": 2,
     "ability": "Pick 2"
   },
   {
+    "id": "square3",
     "shape": "Square",
     "number": 3,
     "ability": "Pick 3"
   },
   {
+    "id": "square5",
     "shape": "Square",
     "number": 5,
     "ability": "Pick 3"
   },
   {
+    "id": "square7",
     "shape": "Square",
     "number": 7,
     "ability": null
   },
   {
+    "id": "square10",
     "shape": "Square",
     "number": 10,
     "ability": null
   },
   {
+    "id": "square11",
     "shape": "Square",
     "number": 11,
     "ability": null
   },
   {
+    "id": "square13",
     "shape": "Square",
     "number": 13,
     "ability": null
   },
   {
+    "id": "square14",
     "shape": "Square",
     "number": 14,
     "ability": "General Market"
   },
   {
+    "id": "star1",
     "shape": "Star",
     "number": 1,
     "ability": "Hold on"
   },
   {
+    "id": "star2",
     "shape": "Star",
     "number": 2,
     "ability": "Pick 2"
   },
   {
+    "id": "star3",
     "shape": "Star",
     "number": 3,
     "ability": "Pick 3"
   },
   {
+    "id": "star4",
     "shape": "Star",
     "number": 4,
     "ability": null
   },
   {
+    "id": "star5",
     "shape": "Star",
     "number": 5,
     "ability": "Pick 3"
   },
   {
+    "id": "star7",
     "shape": "Star",
     "number": 7,
     "ability": null
   },
   {
+    "id": "star8",
     "shape": "Star",
     "number": 8,
     "ability": "Suspension"
   },
   {
+    "id": "whot1",
     "shape": "Whot",
     "number": 20,
     "ability": "Whot"
   },
   {
+    "id": "whot2",
     "shape": "Whot",
     "number": 20,
     "ability": "Whot"
   },
   {
+    "id": "whot3",
     "shape": "Whot",
     "number": 20,
     "ability": "Whot"
   },
   {
+    "id": "whot4",
     "shape": "Whot",
     "number": 20,
     "ability": "Whot"
   },
   {
+    "id": "whot5",
     "shape": "Whot",
     "number": 20,
     "ability": "Whot"

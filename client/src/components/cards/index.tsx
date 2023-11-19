@@ -6,7 +6,7 @@ import Triangle from "./Triangle";
 import { CardPrototype } from "./types";
 
 export default function Card({ shape, value, className }: CardPrototype) {
-  const str0 = "fill-[#F4F4F2] strole=[#000000]";
+  const str0 = "fill-[#F4F4F2]";
   const str1 = "fill-[#7D1228]";
   const str2 = "fill-none";
   const str3 = "fill-[#791026]";

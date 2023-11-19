@@ -10,26 +10,31 @@ export default function DesktopIndex() {
       <section className="flex items-center justify-between gap-10 w-full p-5 h-full">
         <div className="flex relative w-full max-w-[550px] h-[430px] items-center p-10">
           <Card
+            id="trianle1"
             shape="Triangle"
             value={1}
             className="absolute rotate-[-10deg]"
           />
           <Card
+            id="circle2"
             shape="Circle"
             value={2}
             className="absolute left-[80px] top-[60px] rotate-[-5deg]"
           />
           <Card
+            id="cross5"
             shape="Cross"
             value={5}
             className="absolute left-[120px] top-[70px] rotate-[0deg]"
           />
           <Card
+            id="star8"
             shape="Star"
             value={8}
             className="absolute left-[160px] top-[90px] rotate-[5deg]"
           />
           <Card
+            id="square14"
             shape="Square"
             value={14}
             className="absolute left-[190px] top-[110px] rotate-[10deg]"
