@@ -27,18 +27,6 @@ export default function DesktopIndex() {
             value={5}
             className="absolute left-[120px] top-[70px] rotate-[0deg]"
           />
-          <Card
-            id="star8"
-            shape="Star"
-            value={8}
-            className="absolute left-[160px] top-[90px] rotate-[5deg]"
-          />
-          <Card
-            id="square14"
-            shape="Square"
-            value={14}
-            className="absolute left-[190px] top-[110px] rotate-[10deg]"
-          />
         </div>
         <Button className="bg-green-700 py-4 px-6 rounded-md hover:bg-green-800 transition-all ease-in-out">
           Create a Room
