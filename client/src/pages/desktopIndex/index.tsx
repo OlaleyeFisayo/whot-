@@ -1,5 +1,5 @@
 import Button from "../../components/button";
-import CardDisplay from "../../components/cards/cardDisplay";
+import CardDisplay from "../../components/cards/CardDisplay";
 
 export default function DesktopIndex() {
   return (
